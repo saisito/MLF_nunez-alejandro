@@ -30,10 +30,10 @@ import os
 files = [
     {"id": "1Toaeg1spKMOMvFMLRUaFcjH0rRStGQK0", "name": "data/fondo_Co_1200V_170t1_5min.dat"},
     {"id": "1YSUqibib-JbuSJAjgLLqp-pn-GbyJwgv", "name": "data/fondo_10cm_plomo_1200V_170t1_5min.dat"},
-    {"id": "1ABCD3EFG4HIJK5LMNOP6QRST7UVWX8YZ", "name": "data/file3.ext"},
-    {"id": "1ABCDE2FGHIJK3LMNOP4QRST5UVWXY6Z7", "name": "data/file4.ext"},
-    {"id": "1ABCDEFG2HIJKLM3NOPQRST4UVWXY5Z6", "name": "data/file5.ext"},
-    {"id": "1ABCDEFGH2IJKL3MNOPQRST4UVWXY5Z6", "name": "data/file6.ext"},
+    {"id": "18a_Xpv6HfIspJCy1q5FFHE4BL1SJ4MAF", "name": "data/fondo_10cm_noplomo_1200V_170t1_5min.dat"},
+    {"id": "1BOnxVzMR0ZX0zUn6hZP1n8YLCKfACcps", "name": "data/Co_1200V_170t1_5min.dat"},
+    {"id": "1BsmEN-1ruPRchGM0RLmtCo8cl8vQmhd5", "name": "data/AmBe_30cm_10cm_plomo_1200V_650t1_5min.dat"},
+    {"id": "1AT9OqZ95KrGwCKV7Myjt-q_3nSkloNyL", "name": "data/AmBe_30cm_10cm_noplomo_1200V_650t1_5min.dat"},
 ]
 
 # Create the 'data' folder if it doesn't exist
