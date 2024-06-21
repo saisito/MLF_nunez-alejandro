@@ -1,8 +1,10 @@
 # Project
 
-This project contains large data files that are not stored directly in the repository due to their size. To download the original files, please follow the instructions below:
+This is for the final project on Machine Learning Subject at Balseiro Institute
 
 ## Download Files
+
+This project contains large data files that are not stored directly in the repository due to their size. To download the original files, please follow the instructions below:
 
 1. Ensure you have `gdown` installed. If not, you can install it using `pip`:
 
